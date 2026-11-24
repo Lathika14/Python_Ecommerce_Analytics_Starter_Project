@@ -1,0 +1,11 @@
+order_id,order_date,customer_id,product_id,quantity,order_status,customer_name,email,city,region,product_name,category,unit_price,region_description,sales,year,month,month_name,day
+5001,2026-01-05,101,P01,2,Delivered,Arun,arun@example.com,Chennai,South,Wireless Mouse,Electronics,650,Tamil Nadu/Karnataka,1300,2026,1,January,5
+5002,2026-01-08,102,P02,1,Delivered,Meena,meena@example.com,Coimbatore,South,Notebook Pack,Stationery,180,Tamil Nadu/Karnataka,180,2026,1,January,8
+5003,2026-01-15,103,P03,3,Returned,Rahul,rahul@example.com,Bengaluru,South,Bluetooth Speaker,Electronics,1450,Tamil Nadu/Karnataka,4350,2026,1,January,15
+5004,2026-02-02,104,P01,1,Delivered,Priya,priya@example.com,Mumbai,West,Wireless Mouse,Electronics,650,Maharashtra,650,2026,2,February,2
+5005,2026-02-10,105,P04,2,Delivered,Kavin,kavin@example.com,Delhi,North,Water Bottle,Home & Kitchen,350,Delhi/NCR,700,2026,2,February,10
+5006,2026-02-18,106,P02,2,Cancelled,Sara,sara@example.com,Kolkata,East,Notebook Pack,Stationery,180,West Bengal,360,2026,2,February,18
+5007,2026-03-03,101,P04,1,Delivered,Arun,arun@example.com,Chennai,South,Water Bottle,Home & Kitchen,350,Tamil Nadu/Karnataka,350,2026,3,March,3
+5008,2026-03-12,102,P03,2,Delivered,Meena,meena@example.com,Coimbatore,South,Bluetooth Speaker,Electronics,1450,Tamil Nadu/Karnataka,2900,2026,3,March,12
+5009,2026-03-20,104,P02,4,Delivered,Priya,priya@example.com,Mumbai,West,Notebook Pack,Stationery,180,Maharashtra,720,2026,3,March,20
+5010,2026-04-01,105,P01,1,Delivered,Kavin,kavin@example.com,Delhi,North,Wireless Mouse,Electronics,650,Delhi/NCR,650,2026,4,April,1

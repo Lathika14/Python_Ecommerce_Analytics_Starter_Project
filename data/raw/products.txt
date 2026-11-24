@@ -1,0 +1,5 @@
+product_id|product_name|category|unit_price
+P01|Wireless Mouse|Electronics|650
+P02|Notebook Pack|Stationery|180
+P03|Bluetooth Speaker|Electronics|1450
+P04|Water Bottle|Home & Kitchen|350

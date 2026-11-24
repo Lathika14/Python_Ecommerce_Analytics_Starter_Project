@@ -1,0 +1,11 @@
+order_id,order_date,customer_id,product_id,quantity,order_status
+5001,2026-01-05,101,P01,2,Delivered
+5002,2026-01-08,102,P02,1,Delivered
+5003,2026-01-15,103,P03,3,Returned
+5004,2026-02-02,104,P01,1,Delivered
+5005,2026-02-10,105,P04,2,Delivered
+5006,2026-02-18,106,P02,2,Cancelled
+5007,2026-03-03,101,P04,1,Delivered
+5008,2026-03-12,102,P03,2,Delivered
+5009,2026-03-20,104,P02,4,Delivered
+5010,2026-04-01,105,P01,1,Delivered
